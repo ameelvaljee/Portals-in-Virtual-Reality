@@ -824,7 +824,7 @@
                 {
                     "name": "",
                     "id": "fa59aed1-ae0b-4074-a58c-294b85f46228",
-                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "path": "<ViveController>{RightHand}/triggerPressed",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
@@ -835,7 +835,7 @@
                 {
                     "name": "",
                     "id": "150f414f-61bf-47b1-b4f8-f772a2a40565",
-                    "path": "<XRController>{RightHand}/trigger",
+                    "path": "<ViveController>{RightHand}/trigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
